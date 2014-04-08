@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config id="00">
+  <network public="10.123.123.123" static="192.168.0.138" subnet="255.255.255.0" gateway="192.168.0.1" mac="c2:0c:f9:7c:53:20" dns1="106.240.240.240" dns2="106.240.240.1"/>
+  <camera port1="9001" port2="9002"/>
+  <ssh port="9005"/>
+</config>
