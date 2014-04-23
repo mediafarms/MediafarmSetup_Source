@@ -1,7 +1,7 @@
 <?php
 
 	//define("CONFIG_FILE_FATH", "C:/APM_Setup/htdocs/MediafarmSetup/config/");  // 설정파일디렉토리(Window Test)
-	define("CONFIG_FILE_FATH", "/home/ubuntu/Mediafarm/config/");  // 설정파일디렉토리(Ubuntu)
+	define("CONFIG_FILE_FATH", "/home/ubuntu/Mediafarm/MediafarmSetup/config/");  // 설정파일디렉토리(Ubuntu)
 
 	define("MACADDR_FILE_NAME", "mac_addr.txt");  // Mac Address 파일
 	
